@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+## Spotify React App for Generation FSD-04
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
